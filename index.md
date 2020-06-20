@@ -12,3 +12,6 @@ Roams the swamp and the prairies of what is now Montana in the United States of 
 ## Favorite Quote
 > The tastiest leaves are always
 > those in the neighbour's swamp.
+
+## Favorite Image
+<img src="https://c2.peakpx.com/wallpaper/511/99/781/fire-grisu-stuffed-animal-cuddly-wallpaper-preview.jpg">
