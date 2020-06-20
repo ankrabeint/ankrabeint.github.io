@@ -8,3 +8,7 @@ Roams the swamp and the prairies of what is now Montana in the United States of 
 * stubborn
 * ambitious
 * easy going
+
+## Favorite Quote
+> The tastiest leaves are always
+> those in the neighbour's swamp.
