@@ -1,4 +1,4 @@
-# Website for Gittosaurus Charlie
+# Gittosaurus Charlie
 Gittosaurus Charlie is a little dinosaur born into an early Jurassic landscape. 
 He belongs to a rare species of animals with a perfect memory and is most likely vegetarian.
 Roams the swamp and the prairies of what is now Montana in the United States of America.
